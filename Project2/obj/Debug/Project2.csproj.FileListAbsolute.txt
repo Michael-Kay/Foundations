@@ -1,0 +1,5 @@
+C:\Source\Foundations\Project2\bin\Debug\Project2.exe.config
+C:\Source\Foundations\Project2\bin\Debug\Project2.exe
+C:\Source\Foundations\Project2\bin\Debug\Project2.pdb
+C:\Source\Foundations\Project2\obj\Debug\Project2.exe
+C:\Source\Foundations\Project2\obj\Debug\Project2.pdb
