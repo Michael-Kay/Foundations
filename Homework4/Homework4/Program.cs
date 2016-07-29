@@ -104,15 +104,16 @@ namespace Homework4
             int n;
             bool isNumeric = int.TryParse(input, out n);
 
-            int factorial = 1;
-            int i;
+            int x = 1;
+ 
             for (int i = 1; i <= n; i++)
             {
-                factorial *= 1;
-                Console.WriteLine(factorial);
+                x = x * i;
             }
-            
+            Console.WriteLine(n + "!   =   " + x);
             Console.ReadLine();
         }
     }
 }
+
+
