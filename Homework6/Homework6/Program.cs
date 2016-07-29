@@ -39,9 +39,16 @@ class Television
         }
     }
 
-    public int CurrentVolume()
+    public int CurrentVolume
     {
-        return volume;
+        get
+        {
+            return volume;
+        }
+        set
+        {
+            volume = value;
+        }
     }
 
 
