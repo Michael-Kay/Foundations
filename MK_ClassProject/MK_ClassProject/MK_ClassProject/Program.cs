@@ -117,7 +117,7 @@ class MyInventory
 
                              for (var index = newid - 1; index < numberOfItems; index++)
                             {
-                                                              Data[index] = Data[index + 1];
+                                Data[index] = Data[index + 1];
                             }
                             numberOfItems--;
 
